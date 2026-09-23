@@ -58,8 +58,8 @@ The first row is probably what Priya did: $23.24 off on six orders; over a month
 > 4. **A total that doesn't add up.** One order is $5 below the sum of its parts; we're checking which is right.
 >
 > Some push your number up, others down, which is why the gap was hard to trace.
-
- I've raised these with our engineers. Does your dashboard figure include tax and refunds? Once I know, I'll send a corrected figure to reconcile against.
+>
+> I've raised these with our engineers. Does your dashboard figure include tax and refunds? Once I know, I'll send a corrected figure to reconcile against.
 
 > Best Regards,
 > Muzaina Tauqeer
