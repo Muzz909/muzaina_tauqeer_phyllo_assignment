@@ -1,6 +1,6 @@
 # Product Analyst Intern Assignment: Muzaina Tauqeer
 
-`check_orders.py` reproduces every finding and number below (reads `responses/`). Resume: `[Your_Full_Name]_Resume.pdf`.
+`check_orders.py` reproduces every finding and number below (reads `responses/`). Resume: `Muzaina Tauqeer Product Analyst Resume.pdf`.
 
 ## Task 1: What doesn't match?
 
