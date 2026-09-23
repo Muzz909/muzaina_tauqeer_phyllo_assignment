@@ -1,4 +1,4 @@
-# Product Analyst Intern Assignment: [Your Full Name]
+# Product Analyst Intern Assignment: Muzaina Tauqeer
 
 `check_orders.py` reproduces every finding and number below (reads `responses/`). Resume: `[Your_Full_Name]_Resume.pdf`.
 
@@ -61,8 +61,8 @@ The first row is probably what Priya did: $23.24 off on six orders; over a month
 >
 > I've raised these with our engineers. Does your dashboard figure include tax and refunds? Once I know, I'll send a corrected figure to reconcile against.
 >
-> Best,
-> [Your name]
+> Best Regards,
+> Muzaina Tauqeer
 
 ### Bug report
 
