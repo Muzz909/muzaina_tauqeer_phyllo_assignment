@@ -1,0 +1,99 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "ord_1001",
+      "created_at": "2026-03-14T09:21:00Z",
+      "status": "shipped",
+      "currency": "USD",
+      "subtotal": 4500,
+      "tax": 371,
+      "shipping": 599,
+      "total": 5470,
+      "line_items": [
+        {
+          "sku": "SKU-114",
+          "name": "Cedar desk organiser",
+          "quantity": 1,
+          "unit_price": 4500
+        }
+      ],
+      "customer": {
+        "id": "cus_501",
+        "email": "r.okafor@example.com",
+        "name": "Rina Okafor"
+      }
+    },
+    {
+      "id": "ord_1002",
+      "created_at": "2026-03-14T11:05:00Z",
+      "status": "delivered",
+      "currency": "USD",
+      "subtotal": 2200,
+      "tax": 181,
+      "shipping": 0,
+      "total": 2381,
+      "line_items": [
+        {
+          "sku": "SKU-089",
+          "name": "Linen tea towel, set of 2",
+          "quantity": 2,
+          "unit_price": 1100
+        }
+      ],
+      "customer": {
+        "id": "cus_502",
+        "email": "t.abebe@example.com",
+        "name": "Tigist Abebe"
+      }
+    },
+    {
+      "id": "ord_1003",
+      "created_at": "2026-03-14T13:47:12Z",
+      "status": "refunded",
+      "currency": "USD",
+      "subtotal": 8900,
+      "tax": 734,
+      "shipping": 599,
+      "total": 10233,
+      "line_items": [
+        {
+          "sku": "SKU-203",
+          "name": "Walnut serving board",
+          "quantity": 1,
+          "unit_price": 8900
+        }
+      ],
+      "customer": {
+        "id": "cus_503",
+        "email": "j.lindqvist@example.com",
+        "name": "Johan Lindqvist"
+      }
+    },
+    {
+      "id": "ord_1004",
+      "created_at": "2026-03-15T08:02:44Z",
+      "status": "shipped",
+      "currency": "USD",
+      "subtotal": 6200,
+      "tax": 511,
+      "shipping": 599,
+      "total": 6810,
+      "line_items": [
+        {
+          "sku": "SKU-311",
+          "name": "Stoneware mug",
+          "quantity": 4,
+          "unit_price": 1550
+        }
+      ],
+      "customer": {
+        "id": "cus_504",
+        "email": "m.delacruz@example.com",
+        "name": "Mateo Dela Cruz"
+      }
+    }
+  ],
+  "has_more": false,
+  "next_cursor": "cur_8f2a19bd"
+}

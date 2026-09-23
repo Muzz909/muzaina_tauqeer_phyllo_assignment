@@ -1,0 +1,53 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "id": "ord_1005",
+      "created_at": "2026-03-15T14:12:09Z",
+      "status": "delivered",
+      "currency": "USD",
+      "subtotal": 1800,
+      "tax": 148,
+      "shipping": 599,
+      "total": 2547,
+      "line_items": [
+        {
+          "sku": "SKU-042",
+          "name": "Cotton dish cloth",
+          "quantity": 3,
+          "unit_price": 600
+        }
+      ],
+      "customer": {
+        "id": "cus_505",
+        "email": null,
+        "name": "Guest"
+      }
+    },
+    {
+      "id": "ord_1006",
+      "created_at": "2026-03-16T10:41:00Z",
+      "status": "shipped",
+      "currency": "USD",
+      "subtotal": 44.0,
+      "tax": 3.63,
+      "shipping": 5.99,
+      "total": 53.62,
+      "line_items": [
+        {
+          "sku": "SKU-114",
+          "name": "Cedar desk organiser",
+          "quantity": 1,
+          "unit_price": 44.0
+        }
+      ],
+      "customer": {
+        "id": "cus_506",
+        "email": "p.nowak@example.com",
+        "name": "Piotr Nowak"
+      }
+    }
+  ],
+  "has_more": false,
+  "next_cursor": null
+}
